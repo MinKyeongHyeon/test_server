@@ -81,7 +81,7 @@ React → POST /chat → Node → Ollama → Response
 }
 ```
 
----
+---`
 
 ### 3단계 — Memory Extraction
 

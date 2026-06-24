@@ -1,0 +1,25 @@
+{
+  "name": "test_server",
+  "version": "1.0.0",
+  "description": "test server to use ollama online",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinKyeongHyeon/test_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MinKyeongHyeon/test_server/issues"
+  },
+  "homepage": "https://github.com/MinKyeongHyeon/test_server#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
